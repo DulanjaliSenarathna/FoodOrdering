@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#004d40</color>
+    <color name="colorPrimaryDark">#00251a</color>
+    <color name="colorAccent">#838a94</color>
+    <color name="editTextBG">#DADADA</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="textColor">#3f3f43</color>
+    <color name="colorLogin">#5a46f5</color>
+    <color name="logintextcolor">#815d5d</color>
+    <color name="facebookblue"> #3b5998</color>
+    <color name="twitterblue">#38A1F3</color>
+    <color name="overlayBackground">#7f333639</color>
+    <color name="overlayactionbar">#0e0d0e</color>
+
+    <color name="bgRowBackground">#FA315B</color>
+</resources>
